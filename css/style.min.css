@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}.progress{width:50%;height:10px;background-color:#f1f1f1;position:relative}.progress::after{content:"";position:absolute;top:0;left:0;width:60%;height:100%;background-color:green}@keyframes move{0%{width:0}100%{width:90%}}
